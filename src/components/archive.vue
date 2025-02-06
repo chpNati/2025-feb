@@ -48,7 +48,7 @@ import PrimaryTemplate from "@/views/PrimaryTemplate.vue";
         <img src="../assets/ARCHIVE/wayzgoose wide.png" class="pic6" alt="">
       </figure>
       <figure class="ic19">
-        <img src="../assets/ARCHIVE/IMG_2741.JPG" class="pic6" alt="">
+        <img src="../assets/ARCHIVE/planeStuff.png" class="pic6" alt="">
       </figure>
     </div>
 
